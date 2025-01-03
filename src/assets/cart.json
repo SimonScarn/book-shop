@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "name": "Kazus Podatkowy 1(6)2019",
+    "price": 49.99,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Procedury administracyjne i podatkowe 2",
+    "price": 59.99,
+    "img": "./src/assets/cover-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Prawo Pomocy Publicznej",
+    "price": 69.99,
+    "img": "./src/assets/cover-3.png"
+  },
+  {
+    "id": 4,
+    "name": "Komentarz do Ordynacji Podatkowej",
+    "price": 79.99,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 5,
+    "name": "Prawo Handlowe w Praktyce",
+    "price": 89.99,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 6,
+    "name": "Podatki dla Przedsiębiorców",
+    "price": 45.50,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 7,
+    "name": "Podstawy Rachunkowości",
+    "price": 39.90,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 8,
+    "name": "Kazus Podatkowy 2(7)2020",
+    "price": 54.99,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 9,
+    "name": "Finanse i Rachunkowość",
+    "price": 99.99,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 10,
+    "name": "Podatki 2024 – Zmiany w Prawie",
+    "price": 119.00,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 11,
+    "name": "Prawo Pracy 2024",
+    "price": 69.50,
+    "img": "./src/assets/cover-2.png"
+  },
+  {
+    "id": 12,
+    "name": "Rachunkowość zaawansowana",
+    "price": 79.90,
+    "img": "./src/assets/cover-3.png"
+  },
+  {
+    "id": 13,
+    "name": "Podatki na Świecie",
+    "price": 95.00,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 14,
+    "name": "Kompendium Finansów",
+    "price": 110.99,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 15,
+    "name": "Zasady Podatkowe w Unii Europejskiej",
+    "price": 88.50,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 16,
+    "name": "Analiza Finansowa w Praktyce",
+    "price": 78.00,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 17,
+    "name": "Przewodnik po Rachunkowości",
+    "price": 65.99,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 18,
+    "name": "Ordynacja Podatkowa – Poradnik",
+    "price": 49.90,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 19,
+    "name": "Podatki Lokalne i Regionalne",
+    "price": 55.00,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 20,
+    "name": "Kazus Podatkowy 3(8)2021",
+    "price": 52.50,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 21,
+    "name": "Ekonomia dla Menedżerów",
+    "price": 70.00,
+    "img": "./src/assets/cover-1.png"
+  },
+  {
+    "id": 22,
+    "name": "Prawo Gospodarcze",
+    "price": 90.00,
+    "img": "./src/assets/cover-2.png"
+  },
+{
+  "id": 23,
+  "name": "Rachunkowość dla Zaawansowanych",
+  "price": 99.50,
+  "img": "./src/assets/cover-3.png"
+},
+{
+  "id": 24,
+  "name": "Zarządzanie Finansami",
+  "price": 120.00,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 25,
+  "name": "Podatki Międzynarodowe",
+  "price": 89.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 26,
+  "name": "Analiza Finansowa Firm",
+  "price": 79.00,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 27,
+  "name": "Prawo Cywilne w Praktyce",
+  "price": 75.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 28,
+  "name": "Kazus Podatkowy 4(9)2022",
+  "price": 60.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 29,
+  "name": "Podstawy Ekonomii",
+  "price": 44.50,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 30,
+  "name": "Podatki a Biznes",
+  "price": 98.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 31,
+  "name": "Podatki 2025 – Przyszłość Systemów",
+  "price": 125.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 32,
+  "name": "Prawo i Finanse w UE",
+  "price": 89.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 33,
+  "name": "Zarządzanie Podatkowe",
+  "price": 92.00,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 34,
+  "name": "Kazus Podatkowy 5(10)2023",
+  "price": 62.50,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 35,
+  "name": "Rachunkowość Zarządcza",
+  "price": 85.00,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 36,
+  "name": "Finanse Publiczne",
+  "price": 77.90,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 37,
+  "name": "Ekonomia Międzynarodowa",
+  "price": 88.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 38,
+  "name": "Podatki dla Początkujących",
+  "price": 49.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 39,
+  "name": "Prawo i Podatki – Wybrane Zagadnienia",
+  "price": 95.00,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 40,
+  "name": "Rachunkowość Podatkowa",
+  "price": 72.50,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 41,
+  "name": "Kazus Podatkowy 6(11)2024",
+  "price": 59.50,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 42,
+  "name": "Prawo Gospodarcze i Podatkowe",
+  "price": 91.99,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 43,
+  "name": "Podstawy Rachunkowości Finansowej",
+  "price": 82.90,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 44,
+  "name": "Finanse Korporacyjne",
+  "price": 93.00,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 45,
+  "name": "Podatki – Zagadnienia Praktyczne",
+  "price": 66.00,
+  "img": "./src/assets/cover-1.png"
+},
+{
+  "id": 46,
+  "name": "Kazus Podatkowy 7(12)2025",
+  "price": 55.99,
+  "img": "./src/assets/cover-1.png"
+}
+]
