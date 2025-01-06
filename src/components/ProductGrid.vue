@@ -69,8 +69,8 @@ const getPageNumbers = computed(() => {
 
   &__header {
     font-size: 42px;
-    font-weight: 600;
-    color: #0A655E;
+    font-weight: 900;
+    color: var(--main-color);
     padding-top: 124px;
     font-weight: 700;
     margin-top: 0;
@@ -80,36 +80,39 @@ const getPageNumbers = computed(() => {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 140px 20px;
-    margin-top: 204px;
+    margin-top: 160px;
   }
 
   &__pagination {
-    margin-top: 20px;
+    margin-top: 32px;
     text-align: center;
 
     button {
       margin: 0 5px;
       padding: 10px 15px;
       border: none;
-      background-color: #f0f0f0;
+      background: none;
+      color: #6E8484;
+      font-weight: normal;
       cursor: pointer;
 
       &.product-grid__pagination-button--active {
-        font-weight: bold;
-        background-color: #0A655E;
+        background-color: var(--main-color);
         color: white;
+        font-weight: bold;
       }
 
       &:hover {
-        background-color: #0A655E;
-        color: white;
+        color: var(--main-color);
       }
 
       &:disabled {
-        background-color: #e0e0e0;
+        color: #e0e0e0;
         cursor: not-allowed;
       }
     }
   }
 }
+
+
 </style>

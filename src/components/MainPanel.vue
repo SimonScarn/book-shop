@@ -24,17 +24,13 @@
     </div>
   </template>
   
-  <script setup>
-  
-  </script>
-  
   <style lang="scss" scoped>
   .container {
-    background: #0A655E;
+    background: var(--main-color);
   }
   
   .main-panel {
-    padding: 60px 32px 60px 0;
+    padding: 150px 32px 60px 0;
     display: flex;
     gap: 132px;
   
@@ -48,6 +44,9 @@
     }
   
     &__description {
+      p {
+        color: #F1F5F5;
+      }
       p:first-of-type {
         margin-bottom: 32px;
       }

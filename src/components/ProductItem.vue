@@ -1,5 +1,4 @@
 <script setup>
-import { defineProps } from 'vue';
 import { useCartStore } from '../stores/cartStore';
 
 const props = defineProps({
@@ -31,8 +30,8 @@ function handleAddToCart() {
   padding-top: 100px;
 
   &:hover {
-    color: #D1B352;
-    outline: 1px solid #D1B352;
+    color: var(--custom-color);
+    outline: 1px solid var(--custom-color);
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 20px 20px 40px #2E383826;
     cursor: pointer;
@@ -41,7 +40,7 @@ function handleAddToCart() {
     .product-item__price,
     .product-item__vat,
     .product-item__details {
-      color: #D1B352;
+      color: var(--custom-color);
     }
   }
 }
@@ -50,7 +49,7 @@ function handleAddToCart() {
   max-width: 100%;
   height: 190px;
   width: 160px;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   position: absolute;
   top: -25%;
   left: 50%;
@@ -60,7 +59,7 @@ function handleAddToCart() {
 .product-item {
   &__name,
   p {
-    color: #0A655E;
+    color: var(--main-color);
   }
   &__name {
     height: 54px;
@@ -71,7 +70,7 @@ function handleAddToCart() {
   &__price {
     font-size: 28px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
     margin-top: 4px;
     margin-left: -6px;
     font-weight: 700;
@@ -81,7 +80,7 @@ function handleAddToCart() {
     }
   }
   &__details {
-    letter-spacing: px;
+    letter-spacing: 1.4px;
   }
   &__vat {
     font-size: 14px;

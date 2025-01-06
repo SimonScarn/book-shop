@@ -1,7 +1,7 @@
 <template>
   <div class="layout">
-    <div class="">
-      <header class="navbar">
+    <div>
+      <header class="header">
         <NavBar />
       </header>
       <main>
@@ -21,18 +21,33 @@ import MainPanel from '../components/MainPanel.vue';
 import ProductGrid from '../components/ProductGrid.vue';
 </script>
 
-<style>
+<style lang="scss">
 main {
-  background: #0A655E;
+  background: var(--main-color);
+
+  @media(max-width: 1024px) {
+    overflow-x: hidden;
+  }
 }
 .layout {
   height: 100vh;
 }
 
-.navbar {
+.header {
   background-color: #fff;
   position: relative;
-  z-index: 100;
+  z-index: 120;
+}
 
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+
+  @media(max-width: 1024px) {
+    padding-inline: 16px;
+    width: unset;
+  }
 }
 </style>
